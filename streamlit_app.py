@@ -1,3 +1,4 @@
+import typing_extensions
 import strealit
 
 streamlit.title('My Parents New Healty Diner')
